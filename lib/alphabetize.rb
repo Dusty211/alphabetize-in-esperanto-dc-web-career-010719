@@ -7,4 +7,4 @@ def alphabetize(arr)
   arr.sort_by {|element| esper_array.index(element)}
 end
 
-binding.pry
+#binding.pry
